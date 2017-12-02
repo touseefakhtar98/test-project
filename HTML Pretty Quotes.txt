@@ -1,0 +1,9 @@
+Quotation Marks in HTML
+
+"This sentence is surrounded by &quot; and &quot;, type of quotation marks." 
+“This sentence is surrounded by &ldquo; and &rdquo;, type of quotation marks.” 
+‘This sentence is surrounded by &lsquo; and &rsquo;, type of quotation marks.’ 
+«This sentence is surrounded by &laquo; and &raquo;, type of quotation marks.» 
+‹This sentence is surrounded by &lsaquo; and &rsaquo;, type of quotation marks.› 
+„This sentence is surrounded by &bdquo; and &ldquo;, type of quotation marks.“ 
+‚This sentence is surrounded by &sbquo; and &lsquo;, type of quotation marks.‘
